@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.1",
+    "axios": "^1.7.7",
+    "bad-words": "^4.0.0",
+    "formik": "^2.4.6",
+    "react-hook-form": "^7.53.2",
+    "yup": "^1.4.0"
+  }
+}
